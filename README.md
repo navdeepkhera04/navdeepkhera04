@@ -35,6 +35,10 @@ Ex:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navdeepkhera04)](https://github.com/navdeepkhera04/github-readme-stats)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navdeepkhera04&layout=compact)](https://github.com/navdeepkhera04/github-readme-stats)
+
+
 <br> </br>
 ## Languages & Tools:
 
