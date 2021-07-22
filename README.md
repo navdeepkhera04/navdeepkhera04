@@ -41,11 +41,16 @@ Ex:
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Android" width="50" height="50"/>
 </p>
 <br> </br>
+
+
+
 ## Reach me out here:
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&color=blue&logoColor=white&link=https://www.linkedin.com/in/navdeepkhera04/)](https://www.linkedin.com/in/navdeepkhera04/)
+
 <br> </br>
+
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/navdeepkhera04z/count.svg" />
+  <img src="https://profile-counter.glitch.me/Haid-Faiz/count.svg" />
 </p>
-<!--  jhh-->
