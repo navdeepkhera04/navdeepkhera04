@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me:
-- **Android Developer 5 Year Experience**
+- **Android Developer 5 Year+ Experience**
 - **Bachelor of Technology: Electronics and Communications Engineering (ECE) , Chandigarh Engineering Colleges - Landran, Punjab**
 <br> </br>
 <!--
