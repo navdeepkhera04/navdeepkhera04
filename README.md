@@ -33,7 +33,7 @@ Ex:
  
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navdeepkhera04&title_color=ffffff&icon_color=79ff97&text_color=daf7dc&bg_color=003366&hide=html,Objective-C,dart" />
 <br> </br>
-## Languages & Tools:
+### Languages & Tools:
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Android_logo_2019_%28stacked%29.svg" alt="Android" width="80" height="75"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="Kotlin" width="60" height="55"/>
