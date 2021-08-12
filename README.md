@@ -1,35 +1,10 @@
 ### Hi there 👋
 
-<!--
-**navdeepkhera04/navdeepkhera04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## About me:
 - **Android Developer 5 Year+ Experience**
 - **Bachelor of Technology: Electronics and Communications Engineering (ECE) , Chandigarh Engineering Colleges - Landran, Punjab**
-<br> </br>
-<!--
-we can pass different queries in below api. Like: hide, title_color, bg_color, etc. OR instead of manually customization of themes we can directly pass query
-like: theme=radical OR theme=algolia    
-Ex:
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navdeepkhera04&theme=algolia&hide=html,Objective-C" />
--->
-<!-- 
-<img src="https://github-readme-stats.vercel.app/api?username=navdeepkhera04&&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=daf7dc&bg_color=003366">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navdeepkhera04&title_color=ffffff&icon_color=79ff97&text_color=daf7dc&bg_color=003366&hide=html,Objective-C,dart" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navdeepkhera04)](https://github.com/navdeepkhera04/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navdeepkhera04&layout=compact)](https://github.com/navdeepkhera04/github-readme-stats)
- -->
+
  
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navdeepkhera04&title_color=ffffff&icon_color=79ff97&text_color=daf7dc&bg_color=003366&hide=html,Objective-C,dart" />
 <!-- <br> </br> -->
