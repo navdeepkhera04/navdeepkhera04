@@ -2,7 +2,7 @@
 
 
 ## About me:
-- **Android Developer 5 Year+ Experience**
+- **Android Developer 6 Year+ Experience**
 - **Bachelor of Technology: Electronics and Communications Engineering (ECE) , Chandigarh Engineering Colleges - Landran, Punjab**
 
  
